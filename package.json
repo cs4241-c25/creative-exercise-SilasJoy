@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "nexusui": "^2.1.6",
+    "tone": "^15.0.4"
+  }
+}
